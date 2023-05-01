@@ -18,12 +18,14 @@ body{
 	background-color:white;
 	border-radius:10px;
 	width:25%;
+	height:150px;
 }
 
 .box-2{
 	background-color:white;
 	border-radius:10px;
-	width:50%;
+	width:40%;
+	height:200px;
 }
 
 .box-3{
